@@ -28,7 +28,7 @@ Assuming you migrate 10 monolithic service applications to 100 independent micro
 
 Containers to the rescue! Well, [Docker](http://docker.com).
 
-If you haven’t been paying attention the last year, Docker is a really awesome platform that allows you to configur and run applications via application containers. This is a shift from virtual machines where each application needed to run on a full operating system. With containers, you are sharing resources on the host operating system with proper security, file, networking resources managed for you.
+If you haven’t been paying attention the last year, Docker is a really awesome platform that allows you to configure and run applications via application containers. This is a shift from virtual machines where each application needed to run on a full operating system. With containers, you are sharing resources on the host operating system with proper security, file, networking resources managed for you.
 
 The awesome thing with Docker is the application stack you configure and run locally is the exact same that you can run in production. Repeat, the exact same configuration locally as in production.
 
